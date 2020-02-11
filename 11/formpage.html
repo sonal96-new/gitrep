@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Bug Report</title>
+
+<!-- CSS -->
+<style>
+
+
+#div1 h2{
+
+background-color:rgb(204, 91, 91);
+text-transform:uppercase;
+color: white;
+font-size: 15px;
+padding :20px;
+margin:-15px -15px 30px -15px;
+border-radius:15px 15px 0px 0px;
+
+}
+
+
+header
+{
+color:rgb(204, 91, 91);
+height: 60px;
+}
+ul{
+list-style-type: none;
+margin-right:10px;
+margin-top:-50px;
+
+}
+li{ display: inline-block;
+}
+li a{text-decoration: none;
+margin:10px;
+}
+#navo
+{ float:right;
+}
+.form{
+font-family: "Lucida Sans Unicode", sans-serif;
+font-size: 0.8em;
+width: 30em;
+padding: 1em;
+border: 1px solid #ccc;
+margin-left:400px;
+border-radius:15px;
+}
+
+.form * {
+box-sizing: border-box;
+}
+
+.form fieldset {
+border: none;
+padding: 0;
+}
+
+
+.form label.choice {
+font-size: 0.9em;
+font-weight: normal;
+}
+
+.form label {
+text-align: left;
+display: block;
+font-weight: bold;
+}
+
+.form input[type="text"],
+.form select,
+.form textarea {
+
+ width:100%;
+border: 1px solid #ccc;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 0.9em;
+padding: 0.3em;
+border-radius: 20px;
+}
+
+.form textarea {
+height: 100px;
+}
+
+.form input[type="radio"]{
+margin-left: 10%;
+}
+
+.form button {
+padding: 1em;
+border-radius: 0.5em;
+background-color:indianred;
+border: none;
+font-weight: bold;
+margin-left: 80%;
+margin-top: 1.8em;
+}
+
+.form button:hover {
+background-color: rgb(235, 123, 151);
+cursor: pointer;
+color:blanchedalmond;
+}
+ 
+  .form select
+  {
+background-color:rgb(204, 91, 91);
+  }
+  
+ 
+ 
+</style>
+
+</head>
+<body>
+
+
+<header>
+<h1>TO THE NEW</h1>
+<nav id="navo">
+<ul>
+<li><a >Home</a></li>
+<li><a >Quick Help</a></li>
+</ul>
+</nav>
+</header>
+<hr>
+
+<form class="form" method="post"  action="">
+
+<div id="div1">
+<h2>Bug Report</h2></div>
+
+<p>
+  <label>Title</label>
+<input type="text" name="Title" required>
+
+</p>
+
+
+<p>
+  <label>Description </label>
+<textarea name="comments" maxlength="800"></textarea>
+
+</p>
+
+<p>
+<label>Operating System</label>
+<select id="os" name="os">
+<option value="" selected="selected">Select</option>
+<option value="10" >Windows 10</option>
+<option value="linux" >Linux</option>
+<option value="xp" >Windows XP</option>
+
+</select>
+
+</p>
+<p>
+<label>Product</label>
+<select id="product" name="product">
+<option value="" selected="selected">Select</option>
+<option value="Lenovo" >Lenovo</option>
+<option value="HP" >HP</option>
+<option value="Acer" >Acer</option>
+
+</select>
+
+</p>
+<p>
+  <label>Version</label>
+<input type="text" name="version" required>
+
+</p>
+
+<fieldset>
+  <label>License</label>
+<p><label class="choice"> <input type="radio" name="free" required value="free"> Free </label></p>
+<p><label class="choice"> <input type="radio" name="business" required value="business"> Business </label></p>
+</fieldset>
+
+
+<p>
+<label>Severity</label>
+<select id="severity" name="severity">
+<option value="" selected="selected">Select One</option>
+<option value="high" >High</option>
+<option value="low" >Low</option>
+<option value="critical" >Critical</option>
+
+</select>
+
+</p>
+<br>
+<p>
+<label for="myfile"> Attachments:</label><br>
+<input type="file" name="myfile" value="myfile" id="myfile" accept="image/*">
+  </p>
+
+
+
+<p><button type="submit">Send</button></p>
+
+</form>
+
+</body>
+</html>

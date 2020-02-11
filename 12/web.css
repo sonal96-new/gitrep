@@ -1,0 +1,118 @@
+body{
+        margin:0;     
+        padding:0;
+        background:#000;
+         }
+         h1
+         {
+         color: rgb(240, 233, 233);
+         font-size: 25px;
+         margin-left: 10%;
+         margin-right: 10%;
+         }
+         .first
+         {
+         position:relative; 
+         margin-left: 5%; 
+         margin-right: 5%; 
+         height: 100px; 
+         background: #000;
+         }
+         .second
+         {
+         position:relative;
+         padding-top: 5%;  
+         margin-left: 5%; 
+         margin-right: 5%; 
+         background: rgb(243, 233, 233);
+         }
+         .third
+         {
+
+            margin-left: 10%; 
+            margin-right: 10%;
+         }
+         li
+         {
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         color: rgb(204, 198, 198);
+         font-weight: bold;
+         }
+         nav a
+         {
+             text-decoration: none;
+             color: rgb(204, 198, 198);
+             margin-left: 35px;
+         }
+         
+          nav
+          {
+         background: rgb(75, 75, 75);
+         margin-left: 10%;
+         margin-top:-20px;
+         margin-right: 10%;
+         text-decoration: none;
+         }
+         
+         .image
+         {
+         font-family:sans-serif;
+         background:rgb(75, 75, 75); 
+         width: 100%; 
+         height: 40%; 
+         margin-bottom: 2%; 
+         position:relative; 
+         margin-top: 5px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         }
+         .pro
+         {
+         display: inline-block;
+         background: rgb(238, 220, 220);
+         margin-bottom: 2%; 
+         padding: 5px;
+         display: flex;
+         color: rgb(15, 12, 12);
+         justify-content: center;
+         align-items: center;
+         }
+        h3 
+        {
+         color: rgb(238, 217, 217);
+         font-size: 30px;
+         padding-top: 100px;
+         }
+         .cardo{
+         border:1px solid rgb(71, 67, 67); 
+         display: inline-block;
+         padding: 5px;
+         }
+         .card1{
+         font-family:sans-serif;
+         background: rgb(75, 75, 75);
+         width: 190px;
+         height: 300px;
+         text-align: center;
+         margin-top: -20px;
+         }
+         footer{
+            background: #000; 
+            height: 80px;
+            padding: 10px;
+         }
+         .foot{
+         font-size: 18px;
+         padding-top: 25px;
+         padding-left: 10%; 
+         padding-right: 10%;
+         color:white;
+}
+.cap
+{
+    color:#000;
+}
