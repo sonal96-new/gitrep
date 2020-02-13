@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+        <title>Simple Interest</title>
+        <style>
+             #btn
+            {
+                background-color:cadetblue;
+                color:black;
+                margin-top: 50px;
+                height:40px;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-size: medium;
+                
+            }
+        </style>
+    </head>
+    
+    <body><center>
+        <p style="padding-top:50px">Copying information from one object to another using shallow copy.
+            I have used object.assign() method</p>
+        <input type="button" value="Object copy"id="btn" onclick="copy()" /></center><br>
+        <label>Student Info</label><p id="st"></p><hr>
+        <label>Student Info  copy</label><p id="stcopy"></p>
+        
+        <script type="text/javascript">
+        function copy()
+        {
+        var  student = {
+ 
+            company : 'To The New',
+            competency : 'AMC',
+            name: 'sonal',
+            dob : '19/08/1996'
+        };
+            var stcopy = Object.assign({}, student); //shallow copy
+            document.getElementById("st").innerHTML = student.name + " "+student.dob +" "+student.company +" "+ student.competency;
+            document.getElementById("stcopy").innerHTML = stcopy.name + " "+stcopy.dob +" "+stcopy.company +" "+ stcopy.competency;
+
+        }
+        </script>
+    </body>
+    </html>

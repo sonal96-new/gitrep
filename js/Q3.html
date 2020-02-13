@@ -1,0 +1,38 @@
+<html>
+<body>
+ <head>
+   <title>Area</title>
+   <style>
+     .div
+     {
+       background-color: darkcyan;
+       margin-top:100px;
+       margin-left: 400px;
+       width:400px;
+       text-align: center;
+       height: 200px;
+       padding-top: 25px;
+     }
+   </style>
+ </head> 
+     
+       <form>
+        <div class="div">  
+<h3>Enter a value for radius :</h3>
+<input type="text" id="rad">
+<br><br>
+<input type="submit" onclick ="area()" value="Calculate">
+</div>
+</form>
+<script language="javascript">
+        
+  function area()
+  {
+    var radius=document.getElementById("rad").value;
+    var ac= 3.14 *radius * radius;
+    document.write("Area of circle is "+ac);
+  }
+  
+</script>
+</body>
+</html>
