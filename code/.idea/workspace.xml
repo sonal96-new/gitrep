@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98061f03-c676-4bc3-8831-16ad16e444b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4381nNQ9flY3VgenJK2dEcOk7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/code1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="core.config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98061f03-c676-4bc3-8831-16ad16e444b6" name="Default Changelist" comment="" />
+      <created>1584084375787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584084375787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="677" key="#Project_Structure" timestamp="1584357807074">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1584357807074" />
+    <state x="524" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584355646194">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="524" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.741@0.27.1366.741" timestamp="1584355646194" />
+    <state x="266" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1584355639500">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="266" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.27.1366.741@0.27.1366.741" timestamp="1584355639500" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584360654309">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1584360654309" />
+    <state x="455" y="176" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1584333662738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="455" y="176" width="446" height="440" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1584333662738" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584361709243">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1584361709243" />
+    <state x="0" y="27" width="869" height="741" key="find.popup" timestamp="1584362699681">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="869" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1584362699681" />
+  </component>
+</project>
