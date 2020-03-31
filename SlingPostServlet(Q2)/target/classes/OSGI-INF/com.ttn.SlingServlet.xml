@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.ttn.SlingServlet" immediate="true">
+  <implementation class="com.ttn.SlingServlet"/>
+  <service>
+    <provide interface="javax.servlet.Servlet"/>
+  </service>
+  <property name="sling.servlet.extensions" type="String" value="json"/>
+  <property name="sling.servlet.resourceTypes" type="String" value="my/blogs"/>
+  <property name="sling.servlet.methods" type="String" value="GET"/>
+  <property name="sling.servlet.selectors" type="String" value="data"/>
+</scr:component>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5095cd0b-a5a1-46d5-be67-b0b7b694ad3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqFHXc6rIZMBX60O2FlF9633Ov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/SLING-INF/content" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/SLING-INF/content" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/SLING-INF/content" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5095cd0b-a5a1-46d5-be67-b0b7b694ad3e" name="Default Changelist" comment="" />
+      <created>1585558629103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585558629103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585677974982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585677974982" />
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585671647979">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.741@0.27.1366.741" timestamp="1585671647979" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1585589557924">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585589557924" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1585589557923">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585589557923" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1585589557923">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585589557923" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1585589557924">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585589557924" />
+  </component>
+</project>
