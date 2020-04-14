@@ -1,0 +1,11 @@
+<h1><b>Important Links Component</b></h1>
+
+<div data-sly-use.links="aem.com.bootcamp.core.models.Links">
+
+    <ul data-sly-list="${links.getList}">
+        <li>
+            <a data-sly-test='${item["dropdown"]=="newTab"}' href='${item["link"]}' target="_blank" >${item["linkTitle"]}</a>
+            <a data-sly-test='${item["dropdown"]=="sameTab"}' href='${item["link"]}' >${item["linkTitle"]}</a>
+        </li>
+    </ul>
+</div>
