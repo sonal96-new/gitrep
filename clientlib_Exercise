@@ -1,0 +1,30 @@
+###Problem 1:
+
+I had created the the custom component "textCustom".
+
+
+
+
+
+####Problem 2:
+
+Two Network call will be there one for clientlibs-dependencies and second for clientlibs-base.js in which I had embed clientlib-embed.
+
+
+
+
+
+
+###Problem 3:
+
+There are 3 clientlibs clientlib_1,clientlib_2 and clientlib_3.
+
+Observation:
+Network call will be One but It will loads the content of clientlib_2 only which means emded will be done only at the one level.
+
+
+
+Note: I am attaching the Package of my /apps and /content directory.
+
+
+
